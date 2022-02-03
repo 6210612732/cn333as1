@@ -12,4 +12,4 @@
 # Extra Funtionalities
 1. ช่วยจำค่า min max ที่เลขสุ่มจะเป็นไปได้ เพื่อให้เล่นได้ง่ายขึ้น 
 
-[Demo](www.youtube.com)
+[Demo](https://youtu.be/gwEY3Gl4cLE)
